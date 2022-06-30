@@ -1,0 +1,9 @@
+h1{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.header {
+    font-size: 80;
+    background: pink;
+}
